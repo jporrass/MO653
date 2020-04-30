@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MovementsListViewController.tableView(_:didSelectRowAt:):MovementsListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movementToPass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovementsListViewController.prepare(for:sender:):MovementsListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "movementToPass">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovementsListViewController.tableView(_:cellForRowAt:):MovementsListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "movementsFilter">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MovementDetailViewController.viewDidLoad():MovementDetailViewController.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
