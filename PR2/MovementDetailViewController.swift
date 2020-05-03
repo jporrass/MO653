@@ -91,7 +91,7 @@ class MovementDetailViewController: UIViewController {
  
     }
     
-    //Crea un bot162n en tiempo de ejecucion.
+    //Crea un boton en tiempo de ejecucion.
     func createRejectButton()  {
         
     
