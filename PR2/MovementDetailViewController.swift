@@ -76,7 +76,7 @@ class MovementDetailViewController: UIViewController {
     
     // BEGIN-UOC-9
         
-    //Crea un label en tiempo de ejecucion.
+    //Crea el label en tiempo de ejecucion.
     func createRejectedLabel(){
         
         let rejectedLabel = UILabel()
